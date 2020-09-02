@@ -6,7 +6,8 @@ salt
 chilly
 
 
-
+soya
+pepper
 
 
 thank you
