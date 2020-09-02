@@ -6,10 +6,15 @@ salt
 chilly
 
 
-
+soya
+pepper
 
 
 thank you
 
 
+
+done my changes
+
 final copy
+
